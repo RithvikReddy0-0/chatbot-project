@@ -34,7 +34,6 @@ This is a simple conversational chatbot built using the [Facebook BlenderBot](ht
 
 Run the chatbot server
 
-    ```bash
     python app.py
 
 This will start the Flask web server locally (default at http://127.0.0.1:5000). Open your browser and chat with the bot via the web UI.
