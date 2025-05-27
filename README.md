@@ -20,11 +20,13 @@ This is a simple conversational chatbot built using the [Facebook BlenderBot](ht
    git clone git@github.com:RithvikReddy0-0/chatbot-project.git
    cd chatbot-project
 
-2. ** Install dependencies**
+2. **Install dependencies**
     ```bash
     pip install transformers torch
 
 
 ## Usage
 
-to run the chatbot type python chatbot.py in bash
+To run the chatbot type 
+    ```bash
+    python chatbot.py
